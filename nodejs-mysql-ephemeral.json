@@ -448,11 +448,11 @@
             "value": "openshift"
         },
         {
-            "description": "Version of NodeJS image to be used (6, 8, or latest).",
+            "description": "Version of NodeJS image to be used (6, 8, 10 or latest).",
             "displayName": "Version of NodeJS Image",
             "name": "NODEJS_VERSION",
             "required": true,
-            "value": "8"
+            "value": "latest"
         },
         {
             "description": "Maximum amount of memory the Node.js container can use.",
