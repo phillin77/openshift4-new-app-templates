@@ -4,3 +4,4 @@
 - parameters 有多一個 VOLUME_CAPACITY 
  
 # ephemeral 沒有 claim volume 
+- Files in a container are ephemeral. As such, when a container crashes or stops, the data is lost.
