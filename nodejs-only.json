@@ -250,7 +250,7 @@
             "displayName": "Git Repository URL",
             "name": "SOURCE_REPOSITORY_URL",
             "required": true,
-            "value": "https://github.com/phillin77/openshift-typescript-example"
+            "value": "https://github.com/phillin77/openshift4-nodejs-only-ex"
         },
         {
             "description": "Set this to a branch name, tag or other ref of your repository if you are not using the default branch.",
