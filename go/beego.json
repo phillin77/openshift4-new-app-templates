@@ -190,7 +190,7 @@
     {
       "name": "SOURCE_REPOSITORY_URL",
       "description": "The URL of the repository with your application source code",
-      "value": "https://github.com/openshift/golang-ex.git"
+      "value": "https://github.com/phillin77/openshift4-golang-ex.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
